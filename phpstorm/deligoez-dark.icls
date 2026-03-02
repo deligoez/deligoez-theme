@@ -12,15 +12,24 @@
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.7" />
   <colors>
-    <option name="CARET_ROW_COLOR" value="ffffff08" />
+    <option name="CARET_COLOR" value="ce5391" />
+    <option name="CARET_ROW_COLOR" value="1f1f24" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1a1a1f" />
+    <option name="DOCUMENTATION_COLOR" value="1e1e22" />
     <option name="GUTTER_BACKGROUND" value="1a1a1f" />
     <option name="INDENT_GUIDE" value="2a2a30" />
     <option name="LINE_NUMBERS_COLOR" value="55555d" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="d4d4d8" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a2a30" />
+    <option name="NOTIFICATION_BACKGROUND" value="1e1e22" />
+    <option name="RIGHT_MARGIN_COLOR" value="2a2a30" />
+    <option name="SELECTED_INDENT_GUIDE" value="45454d" />
     <option name="SELECTION_BACKGROUND" value="3a4a6a" />
     <option name="SELECTION_FOREGROUND" value="" />
+    <option name="ScrollBar.Mac.thumbColor" value="" />
+    <option name="SOFT_WRAP_SIGN_COLOR" value="55555d" />
     <option name="TEARLINE_COLOR" value="35353b" />
+    <option name="VISUAL_INDENT_GUIDE" value="2a2a30" />
   </colors>
   <attributes>
     <option name="APACHE_CONFIG.ARG_LEXEM">
@@ -12677,7 +12686,8 @@
     </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
-        <option name="FOREGROUND" value="959595" />
+        <option name="FOREGROUND" value="d4d4d8" />
+        <option name="BACKGROUND" value="1a1a1f" />
       </value>
     </option>
     <option name="PHP_STATIC_METHOD">
@@ -12697,7 +12707,50 @@
     </option>
     <option name="PHP_VAR">
       <value>
-        <option name="FOREGROUND" value="959595" />
+        <option name="FOREGROUND" value="d4d4d8" />
+      </value>
+    </option>
+    <option name="PHP_THIS_VAR">
+      <value>
+        <option name="FOREGROUND" value="9d92de" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_VAR_VAR">
+      <value>
+        <option name="FOREGROUND" value="9d92de" />
+      </value>
+    </option>
+    <option name="PHP_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="7ab9e0" />
+      </value>
+    </option>
+    <option name="PHP_NAMED_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="adb6bd" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="b29ed6" />
+      </value>
+    </option>
+    <option name="PHP_ENUM">
+      <value>
+        <option name="FOREGROUND" value="b29ed6" />
+      </value>
+    </option>
+    <option name="PHP_ENUM_CASE">
+      <value>
+        <option name="FOREGROUND" value="75c2d9" />
+      </value>
+    </option>
+    <option name="PHP_READONLY">
+      <value>
+        <option name="FOREGROUND" value="ffa1cd" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="RAINBOW_COLOR0">
