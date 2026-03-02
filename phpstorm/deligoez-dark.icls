@@ -13,7 +13,7 @@
   <option name="CONSOLE_LINE_SPACING" value="1.7" />
   <colors>
     <option name="CARET_COLOR" value="ce5391" />
-    <option name="CARET_ROW_COLOR" value="1f1f24" />
+    <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1a1a1f" />
     <option name="DOCUMENTATION_COLOR" value="1e1e22" />
     <option name="GUTTER_BACKGROUND" value="1a1a1f" />
