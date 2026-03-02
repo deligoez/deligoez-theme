@@ -17,7 +17,9 @@
     <option name="CONSOLE_BACKGROUND_KEY" value="1a1a1f" />
     <option name="DOCUMENTATION_COLOR" value="1e1e22" />
     <option name="GUTTER_BACKGROUND" value="1a1a1f" />
+    <option name="CODE_LENS_BORDER_COLOR" value="222227" />
     <option name="INDENT_GUIDE" value="222227" />
+    <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="222227" />
     <option name="LINE_NUMBERS_COLOR" value="55555d" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="d4d4d8" />
     <option name="METHOD_SEPARATORS_COLOR" value="222227" />
@@ -301,27 +303,27 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="0" />
+        <option name="BACKGROUND" value="1f1f18" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="0" />
+        <option name="BACKGROUND" value="181f18" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="10001" />
+        <option name="BACKGROUND" value="1f181f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="101" />
+        <option name="BACKGROUND" value="181e1e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="1e1616" />
+        <option name="BACKGROUND" value="2d1e1e" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
