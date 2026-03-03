@@ -52,6 +52,24 @@
       "deleted":  "#d6d6d6",
       "modified": "#cad9fa"
     },
+    "status": {
+      "error":   "#ba0011",
+      "warning": "#f49810",
+      "success": "#63a35c",
+      "info":    "#157dae",
+      "hint":    "#795da3"
+    },
+    "rainbow": {
+      "color0": "#ad70a1",
+      "color1": "#6386b1",
+      "color2": "#bf8172",
+      "color3": "#409c61",
+      "color4": "#b57084"
+    },
+    "sass": {
+      "identifier": "#445588",
+      "variable":   "#800080"
+    },
     "terminal": {
       "foreground":  "#333333",
       "background":  "#ffffff",
@@ -124,6 +142,24 @@
       "inserted": "#1a3a1a",
       "deleted":  "#3a1a1a",
       "modified": "#1a2a4a"
+    },
+    "status": {
+      "error":   "#ff7f73",
+      "warning": "#f6ac59",
+      "success": "#9ace94",
+      "info":    "#82c7f1",
+      "hint":    "#c3ade9"
+    },
+    "rainbow": {
+      "color0": "#e5b4da",
+      "color1": "#a8c4e6",
+      "color2": "#d5a599",
+      "color3": "#95d7a8",
+      "color4": "#ecb4c3"
+    },
+    "sass": {
+      "identifier": "#afc0eb",
+      "variable":   "#e691e3"
     },
     "terminal": {
       "foreground":  "#d4d4d8",
