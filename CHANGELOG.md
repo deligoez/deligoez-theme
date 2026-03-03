@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.1.0] - 2026-03-03
+
+### Added
+
+- **Terminal.app** theme (light + dark variants) — macOS native terminal support
+
+### Changed
+
+- **Generator modularized**: split monolithic `generate.py` (1243 lines) into `generators/` package with per-editor modules (`ghostty.py`, `zed.py`, `phpstorm.py`, `terminal_app.py`, `helpers.py`). Entry point is now a slim 20-line dispatcher.
+
 ## [1.0.0] - 2026-03-03
 
 ### Added
